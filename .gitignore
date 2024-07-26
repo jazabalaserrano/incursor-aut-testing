@@ -3,4 +3,3 @@ test/screenshots/*
 assets
 features
 node_modules
-package-lock.json
